@@ -1,7 +1,7 @@
 # shoppa-2020
  A group assignment that required us to apply the knowledge of AJAX and Bootstrap 4 that's been taught in this course. On this assessment we've chose to create a website that focused on selling the technological products such as phone and laptop. The assessment is not much of a hard task to handle with as I've self-learned the concept of AJAX and Bootstrap 4 in my previous project like Meal-Debit System in 2019. With that, the assessment allowed me to obtain more experience from implementing these concepts, and deepened my knowledge of AJAX and Bootstrap 4 from this course.
 
-**The uploaded project file is only for references and comparison, the project file will not be used in any profit-oriented activities without my permission. The user that downloaded the said project will be responsible for any outcomes of their future implementation on the project, and I will not held any legal responsibilities upon your action. However, any users are welcomed to suggest any changes or improvements upon the project if they want to.**
+**DISCLAIMER: The uploaded project file is only for references and comparison, the project file will not be used in any profit-oriented activities without my permission. The user that downloaded the said project will be responsible for any outcomes of their future implementation on the project, and I will not held any legal responsibilities upon your action. However, any users are welcomed to suggest any changes or improvements upon the project if they want to.**
 
 **===================================INSTRUCTIONS===================================**
 1. Import Database into phpMyAdmin. (File name: ```fwddlab.sql```)
